@@ -1,0 +1,59 @@
+/* Universal Selector */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+/* Element Selectors select all of that element type */
+body {
+  background-color: #d9dcd6;
+}
+/* Class Selectors select all elements with that class */
+.header {
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: black;
+  color: #ffffff;
+}
+/* Class Selectors select all elements with that class */
+.header h1 {
+  display: inline-block;
+  font-size: 48px;
+}
+/* Class Selectors select all elements with that class */
+.header div {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+/* Class Selectors select all elements with that class */
+.header div li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+/* Class Selectors select all elements with that class */
+.footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+/* Class Selectors select all elements with that class */
+.footer h2 {
+  font-size: 20px;
+}
