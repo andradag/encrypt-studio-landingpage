@@ -147,4 +147,8 @@ footer {
     width: auto;
     height: auto;
   }
+
+  footer {
+    font-size: 14px;
+  }
 }

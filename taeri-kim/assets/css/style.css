@@ -75,19 +75,21 @@ footer {
 
   .header h1 {
     font-size: 30px;
+    margin-left: 0;
   }
 
   .header {
     margin-bottom: 50px;
+    padding-left: 0;
   }
   .header div li {
     display: inline-block;
-    position: relative;
-    margin-left: 0.1px;
-    margin-right: 0.1px;
+    margin-left: 0;
+    padding-left: 0;
+    border-left: 0;
   }
 
   footer {
-    fond-size: 8px;
+    font-size: 14px;
   }
-} ;
+}
