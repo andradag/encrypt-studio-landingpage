@@ -46,14 +46,15 @@ a {
   height: 100%;
 }
 /* Class Selectors select all elements with that class */
-.footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+footer {
+  color: #0b0b0b;
+  font-family: var(--work-sans);
+  font-weight: 300;
+  font-size: 24px;
   text-align: center;
-}
-/* Class Selectors select all elements with that class */
-.footer h2 {
-  font-size: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: 1s;
 }
