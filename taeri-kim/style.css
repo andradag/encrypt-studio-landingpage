@@ -6,7 +6,7 @@
 }
 /* Element Selectors select all of that element type */
 body {
-  background-color: #d9dcd6;
+  background-color: #0e0e0c;
 }
 /* Class Selectors select all elements with that class */
 .header {
@@ -57,4 +57,37 @@ footer {
   left: 0;
   right: 0;
   transition: 1s;
+  padding-bottom: 2%;
 }
+
+@media screen and (max-width: 992px) {
+  .image {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .image {
+    width: 100%;
+    height: 100%;
+  }
+
+  .header h1 {
+    font-size: 30px;
+  }
+
+  .header {
+    margin-bottom: 50px;
+  }
+  .header div li {
+    display: inline-block;
+    position: relative;
+    margin-left: 0.1px;
+    margin-right: 0.1px;
+  }
+
+  footer {
+    fond-size: 8px;
+  }
+} ;
