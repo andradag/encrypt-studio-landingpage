@@ -19,6 +19,9 @@ a {
   text-decoration: none;
   font-size: 34px;
   transition: 0.1s;
+  width: auto;
+  height: auto;
+  text-align: center;
 }
 
 a:hover {
@@ -92,6 +95,15 @@ a:hover span:nth-child(4) {
   transition: 1s;
   transition-delay: 0.75s;
 }
+
+.background {
+  box-sizing: border-box;
+  position: relative;
+  display: inline-block;
+  padding: 90px 90px;
+  position: fixed;
+}
+
 footer {
   color: #0b9322;
   font-family: var(--work-sans);
