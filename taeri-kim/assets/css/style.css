@@ -11,8 +11,7 @@ body {
 /* Class Selectors select all elements with that class */
 .header {
   padding: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: "Shadows Into Light", cursive;
   background-color: black;
   color: #ffffff;
 }
