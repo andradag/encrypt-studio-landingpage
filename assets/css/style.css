@@ -126,11 +126,23 @@ footer {
     display: inline-block;
 
     position: fixed;
-    background-image: url("/assets/images/background2.jpg");
   }
+
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    background-image: url("/assets/images/background2.jpg");
+    background-size: 110%;
+    font-family: consolas;
+  }
+
   a {
     font-size: 24px;
-
     width: auto;
     height: auto;
   }
@@ -143,8 +155,20 @@ footer {
     display: inline-block;
 
     position: fixed;
-    background-image: url("/assets/images/background2.jpg");
   }
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+    background-image: url("/assets/images/background2.jpg");
+    background-size: 110%;
+    font-family: consolas;
+  }
+
   a {
     font-size: 24px;
 
