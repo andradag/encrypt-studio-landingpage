@@ -6,7 +6,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: black;
-  background-image: url(/encrypt-studio-landingpage/assets/images/background.jpg);
+  background-image: url(/assets/images/background.jpg);
   background-size: 100%;
   font-family: consolas;
 }
