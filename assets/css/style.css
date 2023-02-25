@@ -6,7 +6,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background: black;
-  background-image: url(/assets/images/background.jpg);
+  background-image: url("/assets/images/background.jpg");
   background-size: 100%;
   font-family: consolas;
 }
@@ -124,9 +124,9 @@ footer {
     box-sizing: border-box;
     position: relative;
     display: inline-block;
-    padding: 90px 90px;
+
     position: fixed;
-    background-image: url(/assets/images/background-mobile.jpg);
+    background-image: url("/assets/images/background2.jpg");
   }
   a {
     font-size: 24px;
@@ -141,9 +141,9 @@ footer {
     box-sizing: border-box;
     position: relative;
     display: inline-block;
-    padding: 90px 90px;
+
     position: fixed;
-    background-image: url(/assets/images/background-mobile.jpg);
+    background-image: url("/assets/images/background2.jpg");
   }
   a {
     font-size: 24px;
