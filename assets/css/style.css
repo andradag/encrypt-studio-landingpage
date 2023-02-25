@@ -126,6 +126,7 @@ footer {
     display: inline-block;
     padding: 90px 90px;
     position: fixed;
+    background-image: url(/assets/images/background-mobile.jpg);
   }
   a {
     font-size: 24px;
@@ -142,6 +143,7 @@ footer {
     display: inline-block;
     padding: 90px 90px;
     position: fixed;
+    background-image: url(/assets/images/background-mobile.jpg);
   }
   a {
     font-size: 24px;
