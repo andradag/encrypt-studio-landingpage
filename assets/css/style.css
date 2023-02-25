@@ -28,8 +28,8 @@ a {
 
 a:hover {
   color: black;
-  background: #18e63b;
-  box-shadow: 0 0 40px #2acc11, 0 0 40px #12ad0a, 0 0 80px #2edf0e;
+  background: #23dd0a;
+  box-shadow: 0 0 40px #04034f, 0 0 40px #180365, 0 0 80px #190368;
   transition-delay: 1s;
 }
 
