@@ -171,11 +171,8 @@ footer {
   .card-title {
     font-size: 80%;
   }
-  .btn-primary span {
-    display: none;
-  }
 
-  .btn-primary:after {
+  .btn-primary {
     content: "join";
     margin-top: 0;
     font-size: 80%;
@@ -196,9 +193,9 @@ footer {
     box-sizing: border-box;
     position: relative;
     display: inline-block;
-
     position: fixed;
   }
+
   body {
     margin: 0;
     padding: 0;
@@ -246,11 +243,8 @@ footer {
   .card-title {
     font-size: 80%;
   }
-  .btn-primary span {
-    display: none;
-  }
 
-  .btn-primary:after {
+  .btn-primary {
     content: "join";
     margin-top: 0;
     font-size: 80%;
@@ -321,11 +315,8 @@ footer {
   .card-title {
     font-size: 80%;
   }
-  .btn-primary span {
-    display: none;
-  }
 
-  .btn-primary:after {
+  .btn-primary {
     content: "join";
     margin-top: 0;
     font-size: 80%;
