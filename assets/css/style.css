@@ -217,3 +217,21 @@ footer {
     font-size: 14px;
   }
 }
+
+.position-absolute {
+  margin-bottom: 5%;
+  margin-right: 20%;
+}
+
+.card-img-top {
+  height: 14rem;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: #23dd0a;
+  color: black;
+}
